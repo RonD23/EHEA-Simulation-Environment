@@ -12,7 +12,6 @@ Deploy for free (so the client just opens a link, no install at all):
     2. Go to https://share.streamlit.io , sign in with GitHub.
     3. Point it at the repo/file. It builds and gives you a public URL.
 """
-
 import math
 import pandas as pd
 import streamlit as st
